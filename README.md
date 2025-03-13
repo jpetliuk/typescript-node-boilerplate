@@ -12,7 +12,7 @@ This repository provides a **pre-configured backend boilerplate** using **Node.j
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/node-express-eslint-prettier-jest-typescript.git](https://github.com/jpetliuk/typescript-node-boilerplate.git)
+   git clone https://github.com/jpetliuk/typescript-node-boilerplate.git
    ```
 
 2. Install dependencies:
