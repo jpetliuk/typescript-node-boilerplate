@@ -18,8 +18,9 @@ This repository provides a **pre-configured backend boilerplate** using **Node.j
    git clone https://github.com/jpetliuk/typescript-node-boilerplate.git
    ```
 
-2. Install dependencies:
+2. Move to folder and nstall dependencies:
    ```bash
+   cd typescript-node-boilerplate
    npm install
    ```
 
